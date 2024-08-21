@@ -5,7 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-Software engineering is a disciplined approach to the design, development, maintenance, and management of software systems. It applies engineering principles and practices to ensure that software is reliable, efficient, scalable, and meets user needs. 
+Software engineering is a disciplined approach to the design, development, maintenance, and management of software systems. It applies engineering principles and practices to ensure that software is reliable, efficient, scalable, and meets user needs.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 the software crisis. In the late 1960s and early 1970s, the term "software crisis" was coined to describe the challenges and failures in software development
