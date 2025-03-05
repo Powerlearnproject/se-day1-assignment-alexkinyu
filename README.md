@@ -48,3 +48,4 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 “Can you explain the climate of the Amazon Rainforest, including its temperature, rainfall, and seasonal variations?”
 By specifying "the climate of the Amazon Rainforest," it clearly indicates that the information should pertain to a specific location, reducing ambiguity.
 
+
